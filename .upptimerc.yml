@@ -20,7 +20,7 @@ status-website:
   introMessage: "If you are having issues, contact us at: **contact@mizipet.com**"
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

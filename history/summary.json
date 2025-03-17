@@ -4,10 +4,10 @@
     "url": "https://mizipet.com",
     "icon": "https://icons.duckduckgo.com/ip3/mizipet.com.ico",
     "slug": "mizipet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
@@ -15,17 +15,19 @@
     "timeWeek": 657,
     "timeMonth": 1004,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "Mizipet Pro",
     "url": "https://pro.mizipet.com",
     "icon": "https://icons.duckduckgo.com/ip3/pro.mizipet.com.ico",
     "slug": "mizipet-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 721,
@@ -33,14 +35,16 @@
     "timeWeek": 665,
     "timeMonth": 754,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "Mizipet Api",
     "url": "https://api.mizipet.com/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.mizipet.com.ico",
     "slug": "mizipet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 493,
     "timeMonth": 497,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   }
 ]

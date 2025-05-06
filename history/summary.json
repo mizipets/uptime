@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mizipet.com.ico",
     "slug": "mizipet",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 827,
-    "timeDay": 1037,
-    "timeWeek": 743,
-    "timeMonth": 783,
-    "timeYear": 827,
+    "uptimeYear": "100.00%",
+    "time": 826,
+    "timeDay": 555,
+    "timeWeek": 732,
+    "timeMonth": 776,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-03-17": 12
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 806,
-    "timeWeek": 681,
-    "timeMonth": 745,
-    "timeYear": 725,
+    "time": 724,
+    "timeDay": 504,
+    "timeWeek": 664,
+    "timeMonth": 737,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-03-17": 11
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 596,
-    "timeWeek": 487,
-    "timeMonth": 501,
-    "timeYear": 507,
+    "time": 509,
+    "timeDay": 888,
+    "timeWeek": 534,
+    "timeMonth": 515,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-03-17": 11
     }

@@ -6,15 +6,15 @@
     "slug": "mizipet",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 776,
-    "timeDay": 461,
-    "timeWeek": 556,
-    "timeMonth": 612,
-    "timeYear": 776,
+    "time": 775,
+    "timeDay": 536,
+    "timeWeek": 558,
+    "timeMonth": 615,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2025-06-21": 10,
       "2025-03-17": 12
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 511,
-    "timeWeek": 562,
-    "timeMonth": 609,
-    "timeYear": 696,
+    "time": 695,
+    "timeDay": 560,
+    "timeWeek": 573,
+    "timeMonth": 613,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-03-17": 11
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 504,
-    "timeDay": 606,
-    "timeWeek": 496,
-    "timeMonth": 499,
+    "timeDay": 444,
+    "timeWeek": 492,
+    "timeMonth": 500,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-03-17": 11

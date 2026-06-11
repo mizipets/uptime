@@ -60,9 +60,9 @@
     "url": "https://api.mizipet.com/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.mizipet.com.ico",
     "slug": "mizipet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 458,
     "timeMonth": 475,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-11": 0
+    }
   }
 ]
